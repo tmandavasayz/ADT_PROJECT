@@ -1,1 +1,2 @@
 # ADT_PROJECT
+Data Analysis on Over the Top platforms is a project-based application. Our primary goal will be to ascertain which platform seems to have the good quality content and also the finest content for kids. Also, content producers will have a deeper understanding of what their viewers desire and which platform to use to present their content. This is useful for identifying the factors that influence people's decision to watch movies and TV shows as a recreational activity.
